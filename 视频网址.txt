@@ -1,0 +1,10 @@
+IntelliJ IDEA 入门到实战教程：https://www.bilibili.com/video/av71609179?from=search&seid=7606544420555480673
+
+Spring：
+https://www.bilibili.com/video/av47952931?from=search&seid=12482958531983009647
+
+Mybatis:
+https://www.bilibili.com/video/av47952553?from=search&seid=12482958531983009647
+
+Spring MVC:
+https://www.bilibili.com/video/av47953244?from=search&seid=12482958531983009647
